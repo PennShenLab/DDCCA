@@ -1,6 +1,5 @@
 
 import torch
-from linear_cca import linear_cca
 from DCCAmodel import DeepCCA
 from DietDCCAmodel import DDCCA
 
