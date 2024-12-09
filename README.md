@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 ## 🔨 Usage
-The main program entrance is the `run_DDCCA.py` script, which will perform train-test split based on the random-number-generator seed the user passed through the --rng_seed flag:
+The main program entrance is the `run_DDCCA.py` script, which will perform train-test split based on the random-number-generator seed the user passed through the --rng_seed flag, e.g.:
 ```cmd
 python run_DDCCA.py --in_imgfile 'DATA/image.csv' --in_snpfile 'DATA/genetic.csv' --rng_seed 0 --which_model DDCCA --optuna_num_trials 50 --batch_size 32 --nn_out_size 25
 ```
