@@ -4,7 +4,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import numpy as np
 from objectives import cca_loss
-from DeepCCAModels import MlpNet
+from DCCAmodel import MlpNet
 import math
 
 LEAKYRELU_SLOPE = math.sqrt(5)
