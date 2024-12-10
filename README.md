@@ -1,4 +1,4 @@
-# DDCCA
+# *D*DCCA: *Diet* Deep Canonical Correlation Analysis
 
 This repository holds the official code for the paper below:
 > Shu Yang #, Jae Young Baik #, Zhuoping Zhou, Jingxuan Bao, Austin Wang, Shizhuo Mu, Yanbo Feng, Zixuan Wen, Bojian Hou, Joseph Lee, Tianqi Shang, Rongguang Wang, Junhao Wen, Heng Huang, Andrew J. Saykin, Paul M. Thompson, Christos Davatzikos, Li Shen. ***DDCCA: 'Diet' deep canonical correlation analysis for high-dimensional genetics study of brain imaging phenotypes in Alzheimer's disease.*** ([link to arxiv preprint](https://arxiv.org/submit/6033116)) *#: Equal contribution*
