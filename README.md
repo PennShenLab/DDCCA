@@ -18,6 +18,11 @@ The main program entrance is the `run_DDCCA.py` script, which will perform train
 ```cmd
 python run_DDCCA.py --in_imgfile 'DATA/image.csv' --in_snpfile 'DATA/genetic.csv' --rng_seed 0 --which_model DDCCA --optuna_num_trials 50 --batch_size 32 --nn_out_size 25
 ```
+
+Use the --help flag for details of the arguments:
+```cmd
+python run_DDCCA.py -h
+```
         
 ### 🤝 Acknowledgements
 This study was funded by NIH U01 AG068057 and NIH U01 AG066833. The complete [ADNI](http://adni.loni.usc.edu/) Acknowledgement is available at http://adni.loni.usc.edu/wpcontent/uploads/how_to_apply/ADNI_Acknowledgement_List.pdf.
